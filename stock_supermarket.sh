@@ -1,4 +1,3 @@
-bash 
 ls; 
 mv delivery/apples.txt fruit
 mv delivery/bison-burger.txt meat
@@ -17,4 +16,5 @@ mv delivery/hotdogs.txt meat
 mv delivery/icecream.txt dairy
 mv delivery/lamb_ribs.txt meat
 mv delivery/land_o_lakes_butter.txt dairy
-mv delivery/lean_cuisine.txt 
+mv delivery/lean_cuisine.txt freezer
+mv delivery/
