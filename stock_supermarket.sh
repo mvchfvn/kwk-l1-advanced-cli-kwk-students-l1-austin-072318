@@ -1,6 +1,6 @@
 ls; 
 mv delivery/apples.txt fruit
-mv delivery/bison-burger.txt meat
+mv delivery/bison_burgers.txt meat
 mv delivery/brie.txt dairy
 mv delivery/broccoli.txt veggies
 mv delivery/carrot_cake.txt dessert
@@ -21,9 +21,9 @@ mv delivery/leeks.txt veggies
 mv delivery/milk.txt dairy
 mv delivery/mint_milano_cookies.txt snax
 mv delivery/onion.txt veggies
-mv delivery/oreo.txt snax
+mv delivery/oreos.txt snax
 mv delivery/potatoes.txt veggies
-mv delivery/salmon-steak.txt meat
+mv delivery/salmon_steak.txt meat
 mv delivery/tiramisu_cake.txt dessert
 mv delivery/tomatoes.txt veggies
 mv delivery/trail_mix.txt snax
