@@ -11,4 +11,5 @@ mv delivery/fage_yogurt.txt dairy
 mv delivery/fig_bars.txt snax
 mv delivery/flourless_cake.txt dessert
 mv delivery/garlic.txt veggies
-mv delivery/
+mv delivery/goldfish.txt meat
+mv delivery/grapples.txt 
