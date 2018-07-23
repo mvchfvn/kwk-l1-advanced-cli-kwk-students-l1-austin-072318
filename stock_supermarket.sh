@@ -17,4 +17,13 @@ mv delivery/icecream.txt dairy
 mv delivery/lamb_ribs.txt meat
 mv delivery/land_o_lakes_butter.txt dairy
 mv delivery/lean_cuisine.txt freezer
-mv delivery/
+mv delivery/leeks.txt veggies
+mv delivery/milk.txt dairy
+mv delivery/mint_milano_cookies.txt snax
+mv delivery/onion.txt veggies
+mv delivery/oreo.txt snax
+mv delivery/potatoes.txt veggies
+mv delivery/salmon-steak.txt meat
+mv delivery/tiramisu_cake.txt dessert
+mv delivery/tomatoes.txt veggies
+mv delivery/trail_mix.txt 
