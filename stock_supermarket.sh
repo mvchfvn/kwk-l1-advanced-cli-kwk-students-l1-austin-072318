@@ -1,3 +1,4 @@
 bash 
 ls; 
-mv delivery/apples 
+mv delivery/apples fruit
+mv delivery
